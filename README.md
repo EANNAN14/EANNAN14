@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development, SQL, Python and learning new languages for software development.
 - 🌱 I’m currently learning HTML, CSS, Javascript, SQL & Python.
 - 💞️ I’m looking to collaborate on projects to create responsive and dynamic tools and technology applicable in any market all over the world.
-- 📫 How to reach me eannan.w14@gmai.com.
+- 📫 How to reach me eannan.w14@gmail.com.
 
 <!---
 EANNAN14/EANNAN14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
